@@ -1,0 +1,5 @@
+steps to use jdbc
+load driver
+connect to database
+write and execute statement
+close connection
