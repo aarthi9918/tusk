@@ -1,0 +1,6 @@
+
+Steps from Aarthi
+
+install a stable ide for java
+type your code
+run the code
