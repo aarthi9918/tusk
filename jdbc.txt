@@ -1,6 +1,0 @@
-Here are the steps for jdbc connection
-
-load the driver
-connect to database
-wrote and execute statement
-close connection
